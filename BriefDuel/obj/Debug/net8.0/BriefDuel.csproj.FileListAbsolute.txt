@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\obj\Debug\net8.0\BriefDuel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\obj\Debug\net8.0\BriefDuel.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\obj\Debug\net8.0\BriefDuel.AssemblyInfo.cs
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\obj\Debug\net8.0\BriefDuel.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\obj\Debug\net8.0\BriefDuel.sourcelink.json
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\bin\Debug\net8.0\BriefDuel.exe
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\bin\Debug\net8.0\BriefDuel.deps.json
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\bin\Debug\net8.0\BriefDuel.runtimeconfig.json
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\bin\Debug\net8.0\BriefDuel.dll
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\bin\Debug\net8.0\BriefDuel.pdb
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\obj\Debug\net8.0\BriefDuel.dll
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\obj\Debug\net8.0\refint\BriefDuel.dll
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\obj\Debug\net8.0\BriefDuel.pdb
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\obj\Debug\net8.0\BriefDuel.genruntimeconfig.cache
+C:\Users\Utilisateur\DEV\Briefs\BriefDuel\BriefDuel\obj\Debug\net8.0\ref\BriefDuel.dll

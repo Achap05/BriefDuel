@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BriefDuel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcd593abada0cc4ce1a04ac9735818c581606f92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73aaedde64828968e8a1eb85e48070f2aea14cda")]
 [assembly: System.Reflection.AssemblyProductAttribute("BriefDuel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BriefDuel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

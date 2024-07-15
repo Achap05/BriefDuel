@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 internal class Nain : Guerrier
 {
-    private int _bouclier;
-    public Nain(string name, int pv, int nbrAttaques) :
-        base(name, pv, nbrAttaques);
+    private int _armure;
+    public int Armure { get => _armure; set => _armure = value; } 
+    public Nain(string nom, int pv, int nbrAttaques, int armure) :
+        base(nom, pv, nbrAttaques)
     {
-        
+        Armure = armure ;
     }
-    }
+}
     
 

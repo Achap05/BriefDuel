@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-    internal class Guerrier
+internal class Guerrier
     {
         #region "Attributs"
         private string _nom;
@@ -19,14 +18,42 @@ using System.Threading.Tasks;
         public int NbrAttaques { get => _nbrAttaques; set => _nbrAttaques = value; }
         #endregion
 
-        // Méthodes
+    public Guerrier(string nom, int pv, int nbrAttaques)
+    {
+        Nom = nom;
+        PV = pv;
+        NbrAttaques = nbrAttaques;
+    }
 
-        public Guerrier(string nom,int pv,int nbrAttaques)
+
+    // Méthodes
+    public static Random diceRoll = new Random();
+        int valDiceRoll = diceRoll.Next(1,7);
+        int dégâts = 0;
+        public void Attaque()
+        { 
+            int DiceRoll = diceRoll.Next(1, 7);
+            int dégâts = DiceRoll * NbrAttaques;
+            if (DiceRoll >= 1)
         {
-            Nom = nom; 
-            PV = 100;
-            NbrAttaques = 1;
+            Console.WriteLine($"{Nom} inflige {dégâts} dégâts");
         }
+        }
+
+        public void AfficherInfos()
+    {
+        Console.WriteLine($"{Nom} PV: {PV}");
+    }
+
+        public void SubirDégâts()
+    {
+        if ( dégâts > 0)
+        {
+            
+        }
+    }
+
+        
 }
 
 

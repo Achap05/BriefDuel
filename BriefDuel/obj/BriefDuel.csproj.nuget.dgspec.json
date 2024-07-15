@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utilisateur\\DEV\\Briefs\\Salariés\\BriefDuel\\BriefDuel\\BriefDuel.csproj": {}
+    "C:\\Users\\Utilisateur\\DEV\\Briefs\\BriefDuel\\BriefDuel\\BriefDuel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utilisateur\\DEV\\Briefs\\Salariés\\BriefDuel\\BriefDuel\\BriefDuel.csproj": {
+    "C:\\Users\\Utilisateur\\DEV\\Briefs\\BriefDuel\\BriefDuel\\BriefDuel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utilisateur\\DEV\\Briefs\\Salariés\\BriefDuel\\BriefDuel\\BriefDuel.csproj",
+        "projectUniqueName": "C:\\Users\\Utilisateur\\DEV\\Briefs\\BriefDuel\\BriefDuel\\BriefDuel.csproj",
         "projectName": "BriefDuel",
-        "projectPath": "C:\\Users\\Utilisateur\\DEV\\Briefs\\Salariés\\BriefDuel\\BriefDuel\\BriefDuel.csproj",
+        "projectPath": "C:\\Users\\Utilisateur\\DEV\\Briefs\\BriefDuel\\BriefDuel\\BriefDuel.csproj",
         "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utilisateur\\DEV\\Briefs\\Salariés\\BriefDuel\\BriefDuel\\obj\\",
+        "outputPath": "C:\\Users\\Utilisateur\\DEV\\Briefs\\BriefDuel\\BriefDuel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
